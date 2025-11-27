@@ -1,3 +1,0 @@
-Java to język obiektowy.
-Uczymy się obsługi plików tekstowych.
-Druga klasa technikum informatycznego.
